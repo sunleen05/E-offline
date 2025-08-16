@@ -1,0 +1,13 @@
+E-games/
+├── index.html
+├── games/
+│   ├── game1.html
+│   └── game2.html
+├── assets/
+│   ├── images/
+│   └── sounds/
+├── css/
+│   └── styles.css
+├── js/
+│   └── main.js
+└── README.md
